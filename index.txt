@@ -1,0 +1,57 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <title>Allu Arjun Movies</title>
+ </head>
+ <body>
+ <!-- Scrolling Header -->
+ <marquee>My Favourite Allu Arjun Movies</marquee>
+ <!-- Movie Table -->
+ <h2>Favorite Movies</h2>
+ <table border="1">
+ <tr>
+ <th>Name</th>
+ <th>Genre</th>
+ <th>Year</th>
+ <th>Rating</th>
+ </tr>
+ <tr>
+ <td>Pushpa: The Rise</td>
+ <td>Action, Drama</td>
+ <td>2021</td>
+ <td>8.3</td>
+ </tr>
+ <tr>
+ <td>Ala Vaikunthapurramuloo</td>
+ <td>Action, Comedy, Drama</td>
+ <td>2020</td>
+ <td>7.8</td>
+ </tr>
+<tr>
+ <td>Sarrainodu</td>
+ <td>Action, Drama</td>
+ <td>2016</td>
+ <td>7.6</td>
+ </tr>
+ <tr>
+ <td>Race Gurram</td>
+ <td>Action, Comedy</td>
+ <td>2014</td>
+ <td>8.5</td>
+ </tr>
+ </table>
+ <!-- Image -->
+ <h3>Allu Arjun</h3>
+ <img src="https://assets.onecompiler.app/43fgjczmv/43fjcfzz7/1000159140.jpg" width="200">
+ <!-- Video -->
+ <h3>Movie Trailer</h3>
+ <video width="220" controls>
+ <source src="your-trailer.mp4" type="video/mp4">
+ <!-- Audio -->
+ <h3>Soundtrack</h3>
+ <audio autoplay controls>
+ Your browser does not support the video tag. </video>
+ <source src="your-soundtrack.mp3" type="audio/mpeg">
+ </body>
+ </html>
+ Your browser does not support the audio tag. </audio
